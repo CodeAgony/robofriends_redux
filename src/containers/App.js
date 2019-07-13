@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import CardList from './CardList';
 import axios from 'axios';
-import SearchBox from './SearchBox';
+import SearchBox from '../components/SearchBox';
 
 class App extends Component {
 	constructor() {
